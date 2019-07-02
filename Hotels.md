@@ -44,7 +44,7 @@ Two options:
 |Monday, 15/7, 12:30pm - 2:40pm| Return flight to Sydney (tigerair) |120|
 
 #### Second Option
-| Date         |   Name|Price|
+| Date         |   Name|Price [EUR]|
 | ------------- |-------|-------|
 |Monday, 15/7, 9:15am - 11:55am| Flight from Sydney to Prosperine (Airlie Beach) (tigerair)|79|
 |Tuesday, 16/7, 9:00am - 5:00pm| Redcat Thundercat Great Barrier Reef Tour [Link](https://redcatadventures.com.au/package/thundercat/) |117|
