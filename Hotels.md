@@ -1,6 +1,6 @@
 
 #### to be added: 
-- Things or sightseeings in Sydney & Sydney
+- Things or sightseeings in Sydney & Singapore
 - Singapore accomodation
 
 # Sydney
