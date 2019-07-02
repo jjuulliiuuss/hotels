@@ -40,7 +40,7 @@ Two options:
 |Saturday, 13/7, 9:15am - 11:55am| Flight from Sydney to Prosperine (Airlie Beach) (tigerair)|73|
 |Sunday, 14/7, 9:00am - 5:00pm| Redcat Thundercat Great Barrier Reef Tour [Link](https://redcatadventures.com.au/package/thundercat/)| 117|
 |or| (both offers are similar in my opinion)|
-|Sunday, 14/7, 9:00am - 3:30pm|Ocean Rafting [Link](|https://oceanrafting.com.au/tours/northern-exposure/)|104|
+|Sunday, 14/7, 9:00am - 3:30pm|Ocean Rafting [Link](https://oceanrafting.com.au/tours/northern-exposure/)|104|
 |Monday, 15/7, 12:30pm - 2:40pm| Return flight to Sydney (tigerair) |120|
 
 #### Second Option
@@ -49,7 +49,7 @@ Two options:
 |Monday, 15/7, 9:15am - 11:55am| Flight from Sydney to Prosperine (Airlie Beach) (tigerair)|79|
 |Tuesday, 16/7, 9:00am - 5:00pm| Redcat Thundercat Great Barrier Reef Tour [Link](https://redcatadventures.com.au/package/thundercat/) |117|
 |or|(both offers are similar in my opinion)|
-|Tuesday, 14/7, 9:00am - 3:30pm|Ocean Rafting [Link](|https://oceanrafting.com.au/tours/northern-exposure/)|104|
+|Tuesday, 14/7, 9:00am - 3:30pm|Ocean Rafting [Link](https://oceanrafting.com.au/tours/northern-exposure/)|104|
 |Wednesday, 17/7, 12:50pm - 3:10pm| Return flight to Sydney (tigerair) |120|
 
 Unfortunately,there is no evening/night return flight that we could take after the tour.
