@@ -52,4 +52,5 @@ Two options:
 |Tuesday, 14/7, 9:00am - 3:30pm|Ocean Rafting [Link](https://oceanrafting.com.au/tours/northern-exposure/)|104|
 |Wednesday, 17/7, 12:50pm - 3:10pm| Return flight to Sydney (tigerair) |120|
 
-Unfortunately,there is no evening/night return flight that we could take after the tour.
+- Unfortunately,there is no evening/night return flight that we could take after the tour.
+- Accomodations range from 75 - 150 EURO for two nights (for two persons) [Example results](https://www.booking.com/searchresults.de.html?aid=397599&label=gog235jc-1FCAEoggI46AdIM1gDaA-IAQGYAQe4AQfIAQ3YAQHoAQH4AQyIAgGoAgO4Avu07egFwAIB&sid=2e58f22da5e80bfab98eba2fd119eae4&tmpl=searchresults&checkin=2019-07-13&checkout=2019-07-15&class_interval=1&dest_id=900040109&dest_type=city&group_adults=2&group_children=0&label_click=undef&no_rooms=1&raw_dest_type=city&room1=A%2CA&sb_price_type=total&shw_aparth=1&slp_r_match=0&srpvid=7a765f37ec4c01d4&ssb=empty&track_hp_back_button=1&rdf=)
