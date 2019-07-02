@@ -1,6 +1,6 @@
 
 
-#### Bondi Beach
+#### Sydney
 
 
 | Hotel         | Location | Price [Euro/week]           | Link  |  Comments  |
@@ -10,4 +10,5 @@
 | Travelodge Hotel Sydney | Central |   630 |[Link](https://www.booking.com/hotel/au/travelodge-sydney.de.html?label=gen173nr-1DCAEoggI46AdIM1gEaA-IAQGYAQe4AQfIAQ3YAQPoAQGIAgGoAgO4Aquj7OgFwAIB;sid=2e58f22da5e80bfab98eba2fd119eae4;all_sr_blocks=3794514_95161793_2_2_0;checkin=2019-07-12;checkout=2019-07-19;dest_id=-1603135;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;highlighted_blocks=3794514_95161793_2_2_0;hpos=1;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1562055434;srpvid=9abe3a446f000105;type=total;ucfs=1&#hotelTmpl "Booking.com")  ||
 | Dive Hotel |Coogee |    633   | [Link](https://www.booking.com/hotel/au/dive.de.html?label=gen173nr-1DCAEoggI46AdIM1gEaA-IAQGYAQe4AQfIAQ3YAQPoAQGIAgGoAgO4Aquj7OgFwAIB;sid=2e58f22da5e80bfab98eba2fd119eae4;all_sr_blocks=17780001_88832066_0_1_0;checkin=2019-07-12;checkout=2019-07-19;dest_id=-1603135;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;highlighted_blocks=17780001_88832066_0_1_0;hpos=1;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1562055520;srpvid=029b3a6f45e80239;type=total;ucfs=1&#hotelTmpl "Booking.com")  ||
 | Sydney Harbour ||     |  | not found  |
-
+|Bondi Beachfront Studio |Bondi Beach| 590|[Link](https://www.booking.com/hotel/au/bondi-beachfront-studio-bondi-beach.de.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaA-IAQGYAQe4AQfIAQ3YAQPoAQGIAgGoAgO4Aquj7OgFwAIB;sid=2e58f22da5e80bfab98eba2fd119eae4;all_sr_blocks=433127102_130039075_2_0_0;bhgwe_bhr=1;bhgwe_cep=1;checkin=2019-07-12;checkout=2019-07-19;dest_id=-1603135;dest_type=city;dist=0;group_adults=2;hapos=8;highlighted_blocks=433127102_130039075_2_0_0;hpos=8;nflt=pri%3D1%3Bpri%3D2%3Bpopular_nearby_landmarks%3D13241%3B;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1562055990;srpvid=440f3b5b6c65003a;type=total;ucfs=1&#map_closed "Booking.com")||
+|Coogee Bay Hotel - Pub Style|Coogee Beach|555 |[Link](https://www.booking.com/hotel/au/coogee-bay-pub-style.de.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaA-IAQGYAQe4AQfIAQ3YAQPoAQGIAgGoAgO4Aquj7OgFwAIB;sid=2e58f22da5e80bfab98eba2fd119eae4;all_sr_blocks=397179901_123136407_2_2_0;checkin=2019-07-12;checkout=2019-07-19;dest_id=-1603135;dest_type=city;dist=0;group_adults=2;hapos=15;highlighted_blocks=397179901_123136407_2_2_0;hpos=15;nflt=pri%3D1%3Bpri%3D2%3B;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1562056733;srpvid=0ac93cce126301e7;type=total;ucfs=1&#hotelTmpl "Booking.com")||
