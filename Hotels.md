@@ -1,7 +1,7 @@
 
 
-## Sydney
-
+# Sydney
+## Booking.com
 
 | Hotel         | Location | Price [Euro/week]           | Link  |  Comments  |
 | ------------- |------- |:-------------:| -----:| -----:|
