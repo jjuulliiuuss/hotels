@@ -29,3 +29,23 @@
 |Entire beachfront apt in the heart of Bondi Beach|Bondi Beach|460 |[Link](https://www.airbnb.de/rooms/30830431?location=Bondi%20Beach%2C%20New%20South%20Wales%2C%20Australien&toddlers=0&adults=2&check_in=2019-07-12&check_out=2019-07-19&source_impression_id=p3_1562060301_bVm4izgvuV4JVt0i)||
 |Modern studio apartment in the heart of Bondi|Bondi Beach| 451 |[Link](https://www.airbnb.de/rooms/34704342?location=Bondi%20Beach%2C%20New%20South%20Wales%2C%20Australien&toddlers=0&adults=2&check_in=2019-07-12&check_out=2019-07-19&source_impression_id=p3_1562060347_vLIO6AG96iEkglIh)||
 |Bright Modern Home, All You Need With Great View| Bondi| 512 |[Link](https://www.airbnb.de/rooms/36241527?location=Bondi%20Beach%2C%20New%20South%20Wales%2C%20Australien&toddlers=0&adults=2&check_in=2019-07-12&check_out=2019-07-19&source_impression_id=p3_1562060406_kd1r%2F9cvo%2Bt3bmvy)||
+
+
+## Airlie Beach
+
+Two options:
+#### First Option
+| Date         |   Name|
+| ------------- |-------|
+|Saturday, 13/7, 9:15am - 11:55am| Flight from Sydney to Prosperine (Airlie Beach) (tigerair)|
+|Sunday, 14/7, 9:00am - 5:00pm| Redcat Thundercat Great Barrier Reef Tour [Link](https://redcatadventures.com.au/package/thundercat/)  |
+|Monday, 15/7, 12:30pm - 2:40pm| Return flight to Sydney (tigerair) |
+
+#### Second Option
+| Date         |   Name|
+| ------------- |-------|
+|Monday, 15/7, 9:15am - 11:55am| Flight from Sydney to Prosperine (Airlie Beach) (tigerair)|
+|Tuesday, 16/7, 9:00am - 5:00pm| Redcat Thundercat Great Barrier Reef Tour [Link](https://redcatadventures.com.au/package/thundercat/)  |
+|Wednesday, 17/7, 12:50pm - 3:10pm| Return flight to Sydney (tigerair) |
+
+Unfortunately,there is no evening/night return flight that we could take after the tour.
