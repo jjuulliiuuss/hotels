@@ -1,4 +1,7 @@
 
+#### to be added: 
+- Things or sightseeings in Sydney & Sydney
+- Singapore accomodation
 
 # Sydney
 ## Booking.com
@@ -29,7 +32,6 @@
 |Entire beachfront apt in the heart of Bondi Beach|Bondi Beach|460 |[Link](https://www.airbnb.de/rooms/30830431?location=Bondi%20Beach%2C%20New%20South%20Wales%2C%20Australien&toddlers=0&adults=2&check_in=2019-07-12&check_out=2019-07-19&source_impression_id=p3_1562060301_bVm4izgvuV4JVt0i)||
 |Modern studio apartment in the heart of Bondi|Bondi Beach| 451 |[Link](https://www.airbnb.de/rooms/34704342?location=Bondi%20Beach%2C%20New%20South%20Wales%2C%20Australien&toddlers=0&adults=2&check_in=2019-07-12&check_out=2019-07-19&source_impression_id=p3_1562060347_vLIO6AG96iEkglIh)||
 |Bright Modern Home, All You Need With Great View| Bondi| 512 |[Link](https://www.airbnb.de/rooms/36241527?location=Bondi%20Beach%2C%20New%20South%20Wales%2C%20Australien&toddlers=0&adults=2&check_in=2019-07-12&check_out=2019-07-19&source_impression_id=p3_1562060406_kd1r%2F9cvo%2Bt3bmvy)||
-
 
 ## Airlie Beach
 
