@@ -1,6 +1,6 @@
 
 
-#### Sydney
+## Sydney
 
 
 | Hotel         | Location | Price [Euro/week]           | Link  |  Comments  |
@@ -18,7 +18,7 @@
 |Perouse Lodge|Coogee |503|[Link](https://www.booking.com/hotel/au/perouse-lodge.de.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaA-IAQGYAQe4AQfIAQ3YAQPoAQGIAgGoAgO4Aquj7OgFwAIB;sid=2e58f22da5e80bfab98eba2fd119eae4;all_sr_blocks=4565501_91287914_0_0_0;checkin=2019-07-12;checkout=2019-07-19;dest_id=-1603135;dest_type=city;dist=0;group_adults=2;hapos=90;highlighted_blocks=4565501_91287914_0_0_0;hpos=45;nflt=pri%3D1%3Bpri%3D2%3B;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1562058061;srpvid=27483f665c230205;type=total;ucfs=1&#map_closed "Booking.com")|10-15min zum Strand|
 |Bondi Beach Studio KingSuite|Bondi Beach |559|[Link](https://www.booking.com/hotel/au/bondi-beach-studio-king-suite-balcony-bondi.de.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaA-IAQGYAQe4AQfIAQ3YAQPoAQGIAgGoAgO4Aquj7OgFwAIB;sid=2e58f22da5e80bfab98eba2fd119eae4;all_sr_blocks=295110801_131636283_2_0_0;bhgwe_bhr=1;bhgwe_cep=1;checkin=2019-07-12;checkout=2019-07-19;dest_id=-1603135;dest_type=city;dist=0;group_adults=2;hapos=283;highlighted_blocks=295110801_131636283_2_0_0;hpos=13;nflt=pri%3D1%3Bpri%3D2%3B;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1562059120;srpvid=644a4178da67003c;type=total;ucfs=1&#map_closed "Booking.com")|1.5km zum Strand|
 
-#### AirBnB
+## AirBnB
 | Name         | Location | Price [Euro/week]           | Link  |  Comments  |
 | ------------- |------- |:-------------:| -----:| -----:|
 |Unique 1BR guest house - Walk to Coogee Beach|Coogee Beach|485 |[Link](https://www.airbnb.de/rooms/32168315?location=Coogee%2C%20New%20South%20Wales&toddlers=0&adults=2&check_in=2019-07-12&check_out=2019-07-19&source_impression_id=p3_1562059981_RD8vvqp%2FARg7kK6r "Airbnb.com")||
