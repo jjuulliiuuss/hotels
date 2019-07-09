@@ -1,7 +1,7 @@
 
 #### to be added: 
 - Kangaroos  
-⋅⋅* Featherdale and/or Tangaroo Zoo [see Tripadvidor](https://www.tripadvisor.com.au/ShowTopic-g255060-i122-k5706700-Where_to_see_Kangaroos_and_Koalas_in_or_near_Sydney-Sydney_New_South_Wales.html)
+    - Featherdale and/or Tangaroo Zoo [see Tripadvidor](https://www.tripadvisor.com.au/ShowTopic-g255060-i122-k5706700-Where_to_see_Kangaroos_and_Koalas_in_or_near_Sydney-Sydney_New_South_Wales.html)
 - Singapore accomodation
 
 # Sydney
