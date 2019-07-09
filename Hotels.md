@@ -2,7 +2,9 @@
 #### Sydney things to do: 
 - Kangaroos  
     - Featherdale and Tangaroo Zoo ([see Tripadvidor](https://www.tripadvisor.com.au/ShowTopic-g255060-i122-k5706700Where_to_see_Kangaroos_and_Koalas_in_or_near_Sydney-Sydney_New_South_Wales.html))
-- Surfing
+- Surfing  
+- Bondi Beach
+- Maroubra Beach
 
 #### to be added: 
 - Singapore accomodation
