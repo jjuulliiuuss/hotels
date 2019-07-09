@@ -7,6 +7,7 @@
     - Maroubra Beach
 
 #### to be added: 
+- Book RedCat Daytrip adventure
 - Singapore accomodation
 - Sydney accomodation
 
