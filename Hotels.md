@@ -8,6 +8,7 @@
 
 #### to be added: 
 - Book RedCat Daytrip adventure
+- Airlie Beach accomodation
 - Singapore accomodation
 - Sydney accomodation
 
