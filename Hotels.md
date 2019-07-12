@@ -5,6 +5,8 @@
 - Surfing  
     - Bondi Beach
     - Maroubra Beach
+- Harbour Bridge Climbing Tour    
+
 
 #### to be added: 
 - Book RedCat Daytrip adventure
