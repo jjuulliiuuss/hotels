@@ -16,6 +16,20 @@
 - Hop On/Off Tour
 - Bungee Jumping
 - Manly Beach
+- Queen Victoria Building
+- Ferry Rides
+- Museum of Contemporary Art
+- State Theatre
+- Stadium
+- Movie Monday
+- __North Sydney Olympic Pool__
+- Manly Beach
+- Outdoor Pools
+- Sydney by Kayak
+- __Blue Mountains with Featherdale Zoo__
+- Shark Island
+- Parliament House
+- Sydney Football Stadium
 
 
 
