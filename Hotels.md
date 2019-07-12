@@ -5,7 +5,18 @@
 - Surfing  
     - Bondi Beach
     - Maroubra Beach
-- Harbour Bridge Climbing Tour    
+- Harbour Bridge Climbing Tour
+- Harbour Cruise
+- Botanic Garden
+- Zoo
+- Hyde Park
+- Art Gallery of NSW
+- Macquarie Street
+- Chinatown
+- Hop On/Off Tour
+- Bungee Jumping
+- Manly Beach
+
 
 
 #### to be added: 
