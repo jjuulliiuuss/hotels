@@ -5,7 +5,7 @@
 - Surfing  
     - Bondi Beach
     - Maroubra Beach
-- Harbour Bridge Climbing Tour
+- __Harbour Bridge Climbing Tour__
 - Harbour Cruise
 - Botanic Garden
 - Zoo
