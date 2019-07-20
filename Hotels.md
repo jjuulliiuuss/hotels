@@ -1,18 +1,18 @@
 #### Singapore things to do:
 - Gardens by the Bay (Saturday)
 - Singapore Botanic Gardens (Saturday)
-- MacRitchie Reservoir
-- Singapore Cable Car (Sentosa island Tour)
-- Cloud Forest
-- Singapore Flyer
+- MacRitchie Reservoir (Sunday?)
+- Singapore Cable Car / Sentosa island Tour (Sunday)
+- Cloud Forest (Saturday)
+- Singapore Flyer (?)
 - Orchard Road (Saturday)
-- Bumroad Ride
+- Bumroad Ride (if enough time)
 - Sands SkyDeck (Saturday)
 - Hawker Center (Saturday)
 - Marina Bay Sands Casino (Saturday)
-- Southern Ridges
-- Trick Eye Museum
--  VR Sandbox
+- Southern Ridges (Sunday)
+- Trick Eye Museum (Sunday)
+- VR Sandbox 
 - ArtScience Museum (Saturday) 
 
 #### Sydney things to do: 
